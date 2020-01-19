@@ -1,6 +1,6 @@
 /*********************************************************************************************************************
      **
-     **  Conversion of Postfix and prefix expression to Prefix and Postfix expression resp. 
+     **  Conversion of Postfix and Prefix expression to Prefix and Postfix expression resp. 
      **  Input Postfix and Prefix expression must be in a desired format. 
      **  Operands and operator, both must be single character.
      **  Only '+'  ,  '-'  , '*', '/'  operators are expected. 
